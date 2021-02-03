@@ -1,0 +1,16 @@
+a:visited {
+    color: cornflowerblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+body {
+    background-color: burlywood;
+    font-size: large;
+}
+h1 {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+p {
+    font-size: small;
+}
